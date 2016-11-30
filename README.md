@@ -14,13 +14,13 @@ Open the `home.html` page on browser.
 
 ### Inputs for Admin
 
-Username: admin@ua.edu.au
-Password: password
+* **Username**: admin@ua.edu.au
+* **Password**: password
 
 ### Input for User/Member
 
-Username: jsmith89
-password: password
+* **Username**: jsmith89
+* **password**: password
 
 ### Registration:
 
