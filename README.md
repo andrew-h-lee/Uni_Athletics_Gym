@@ -1,6 +1,13 @@
 # Uni_Athletics_Gym
-Gym Mockup using AxureRP
+A Mockup Prototype for a Gym Membership Website.
 
+## Tools Used
+* Axure RP
+* HTML5
+* CSS3
+* JavaScript
+
+## Open on Browser
 Open the `home.html` page on browser.
 
 ## Login Info:
