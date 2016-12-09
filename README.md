@@ -2,7 +2,7 @@
 A Mockup Prototype for a Gym Membership Website.
 
 ## Screenshots
-[Behance Screenshots](https://www.behance.net/andrew-h-lee)
+[Behance Screenshots](https://www.behance.net/gallery/33936300/Uni_Athletics_Gym)
 
 ## Tools Used
 * Axure RP
